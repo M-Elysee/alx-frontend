@@ -22,4 +22,4 @@ Techium will be the name of the company we will use across our webpages.
 
 Sitemap of the project
 
-<img href="/images/site_map.png"></img>
+<img href="/images/site_map.png" alt="Site Map">
