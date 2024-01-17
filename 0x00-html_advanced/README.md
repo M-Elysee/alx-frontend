@@ -11,6 +11,7 @@ Resources
 
 <div>
     <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">HTML: HyperText Markup Language | MDN</a>
+    <br>
     <a href="https://htmlreference.io/">HTML Reference - A free guide to all HTML elements and attributes</a>
 </div>
 
@@ -22,4 +23,4 @@ Techium will be the name of the company we will use across our webpages.
 
 Sitemap of the project
 
-<img href="/images/site_map.png" alt="Site Map">
+<img href="./images/site_map.jpg" alt="Site Map">
