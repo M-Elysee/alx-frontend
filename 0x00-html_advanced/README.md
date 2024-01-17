@@ -9,8 +9,10 @@ Important note: details are important! lowercase vs uppercase / wrong letter… 
 
 Resources
 
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML">HTML: HyperText Markup Language | MDN</a>
-<a href="https://htmlreference.io/">HTML Reference - A free guide to all HTML elements and attributes</a>
+<div>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">HTML: HyperText Markup Language | MDN</a>
+    <a href="https://htmlreference.io/">HTML Reference - A free guide to all HTML elements and attributes</a>
+</div>
 
 
 Requirements
@@ -20,4 +22,4 @@ Techium will be the name of the company we will use across our webpages.
 
 Sitemap of the project
 
-<img href="../images/site_map"></img>
+<img href="/images/site_map.png"></img>
