@@ -48,7 +48,7 @@ body {
     font-family: var(--font-family-base);
     font-size: var(--font-size-medium);
     font-weight: var(--font-weight-regular);
-    min-height: var(--line-height-base);
+    line-height: var(--line-height-base);
 }
 /* Target anchor elements with hyperlinks */
 a[href]:not([href=""]) {

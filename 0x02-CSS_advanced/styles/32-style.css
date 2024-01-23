@@ -9,7 +9,6 @@
     --color-white: #ffffff;
     --color-light-grey: #f3f3f3;
     --color-dark-grey: #353535;
-
     --text-color: var(--color-black);
  
     --font-family-base: 'Open Sans','Helvetica Neue', Helvetica, Arial, sans-serif;
@@ -180,18 +179,6 @@ ul .row{
     padding-top: 1rem;
     color: var(--color-primary);
 }
-.card-testimonial .card-quote {
-    position: relative;
-}
-.card-testimonial .card-quote::before {
-    content: "\201";
-    position: absolute;
-    top:-4.5rem;
-    left: -1rem;
-    color: #efeded;
-    font-size: 10rem;
-    z-index: -1;
-}
 .card-work .card-outer {
     position: relative;
     overflow: hidden;
@@ -235,6 +222,18 @@ ul .row{
 }
 .card-work:hover .card-title {
     opacity: 1;
+}
+.card-testimonial .card-quote {
+    position: relative;
+}
+.card-testimonial .card-quote::before {
+    content: "\201";
+    position: absolute;
+    top:-4.5rem;
+    left: -1rem;
+    color: #efeded;
+    font-size: 10rem;
+    z-index: -1;
 }
 .card-work:hover .card-image {
     transform: scale(1.2);
@@ -347,7 +346,7 @@ ul .row{
     float: left;
     padding: 0.5rem;
 }
-[data-section-theme=“dark”] {
+[data-section-theme="dark"] {
     --text-color: var(--color-white);
     --section-title-color: var(--color-white);
     background-color: var(--color-black);
